@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BasicDataBinding</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="special">Special : %s</string>
+    <string name="price">price : %s</string>
+    <string-array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+</resources>
